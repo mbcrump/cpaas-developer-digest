@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CPaaS Developer Digest</title>
+    <link>https://cpaasdevdigest.com/</link>
+    <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Aug 2026 15:22:28 GMT</lastBuildDate>
+    <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-22</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-22.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-22.html</guid>
+      <pubDate>Sat, 22 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-22.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-22</h1>
+<p>Generated: 2026-08-22 08:36 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-21</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-21.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-21.html</guid>
+      <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-21.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-21</h1>
+<p>Generated: 2026-08-21 08:49 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.1" rel="noopener noreferrer">v3.2.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-21">2026-08-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=nP5pnLl6Vm4" rel="noopener noreferrer">SMS Conversation Exporter on Telnyx Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-21">2026-08-21</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=nP5pnLl6Vm4" rel="noopener noreferrer">SMS Conversation Exporter on Telnyx Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-21">2026-08-21</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/conversations-ios/releases/tag/v4.0.9" rel="noopener noreferrer">Twilio Conversations Client iOS 4.0.9</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Conversations iOS SDK Releases</span><time datetime="2026-08-21">2026-08-21</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.1" rel="noopener noreferrer">v3.2.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-21">2026-08-21</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-20</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-20.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-20.html</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-20.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-20</h1>
+<p>Generated: 2026-08-20 08:49 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.2-snapshot.20260820113314" rel="noopener noreferrer">v2.6.2-snapshot.20260820113314</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/video-client-sdk-2-35-1-release-promises-and-scalable-layer-selection" rel="noopener noreferrer">Video Client SDK 2.35.1 Release: Promises and Scalable Layer Selection</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/RnHV0zZpKWY" rel="noopener noreferrer">The Three Major Technology Shifts with AI + Messaging</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/agentic-ai-vs-conversational-ai.html" rel="noopener noreferrer">Agentic AI vs. Conversational AI: Where the Real Line Is</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/autonomous-customer-service.html" rel="noopener noreferrer">Autonomous Customer Service: Beyond Chatbots to Action</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/RnHV0zZpKWY" rel="noopener noreferrer">The Three Major Technology Shifts with AI + Messaging</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6cKpahsI4_g" rel="noopener noreferrer">Inside Chuze Fitness&#39;s SMS strategy with Sinch Engage for HubSpot</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Exy5pNFVQ4Q" rel="noopener noreferrer">Build an Edge Cache Invalidation Agent with Zero Credential Messaging</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=dPpLNp28XBM" rel="noopener noreferrer">Turn Voicemails into Text Summaries with Telnyx AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.2-snapshot.20260820113314" rel="noopener noreferrer">v2.6.2-snapshot.20260820113314</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/video-client-sdk-2-35-1-release-promises-and-scalable-layer-selection" rel="noopener noreferrer">Video Client SDK 2.35.1 Release: Promises and Scalable Layer Selection</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-20">2026-08-20</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-19</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-19.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-19.html</guid>
+      <pubDate>Wed, 19 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-19.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-19</h1>
+<p>Generated: 2026-08-19 08:47 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/whats-new-ringcx-ai-updates-innovations-june-2026/" rel="noopener noreferrer">What’s new in RingCX: AI updates, innovations, admin improvements and more, June 2026 highlights</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_PWn3IQb-2s" rel="noopener noreferrer">Send Transactional Email With Zero Config Using Telnyx Email API</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/whats-new-ringcx-ai-updates-innovations-june-2026/" rel="noopener noreferrer">What’s new in RingCX: AI updates, innovations, admin improvements and more, June 2026 highlights</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_PWn3IQb-2s" rel="noopener noreferrer">Send Transactional Email With Zero Config Using Telnyx Email API</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-19">2026-08-19</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-voice-ios/releases/tag/6.13.7" rel="noopener noreferrer">Twilio Voice SDK iOS 6.13.7</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Voice iOS SDK Releases</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-go" rel="noopener noreferrer">How to Build Passwordless Auth With Twilio Verify in Go</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-php" rel="noopener noreferrer">How to Build Passwordless Auth With Twilio Verify in PHP</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-with-twilio-verify-rust" rel="noopener noreferrer">How to Build Passwordless Auth With Twilio Verify in Rust</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-18</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-18.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-18.html</guid>
+      <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-18.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-18</h1>
+<p>Generated: 2026-08-18 08:47 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/every-passkey-needs-a-silent-partner" rel="noopener noreferrer">Every Passkey Needs a Silent Partner</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/from-assistive-to-proactive-navigating-the-agentic-shift-in-financial-services/" rel="noopener noreferrer">From assistive to proactive: Navigating the agentic shift in financial services</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-call-routing/" rel="noopener noreferrer">AI call routing: How it works and why it matters</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/from-assistive-to-proactive-navigating-the-agentic-shift-in-financial-services/" rel="noopener noreferrer">From assistive to proactive: Navigating the agentic shift in financial services</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-call-routing/" rel="noopener noreferrer">AI call routing: How it works and why it matters</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/analyst-firms-leading-next-generation-customer-engagement/" rel="noopener noreferrer">Why two analyst firms see RingCentral leading the next generation of customer engagement</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ZmqK1zelCys" rel="noopener noreferrer">How ACC Premiere Migrated to Genesys Cloud with Telnyx SIP Trunking</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=t1-890mPggI" rel="noopener noreferrer">How Anima Built Voice Agents for UK GP Practices with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/every-passkey-needs-a-silent-partner" rel="noopener noreferrer">Every Passkey Needs a Silent Partner</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-18">2026-08-18</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-17</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-17.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-17.html</guid>
+      <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-17.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-17</h1>
+<p>Generated: 2026-08-17 08:42 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=2ar6t87Txzg" rel="noopener noreferrer">Automate Customer Support Calls with OpenAI and Vonage Voice API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/keeping-humans-in-the-loop-7-takeaways-from-ai-real-talk-for-scaling-ai-responsibly/" rel="noopener noreferrer">Keeping humans in the loop: 7 takeaways from AI Real Talk for scaling AI responsibly</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/brand-impersonation-verified-messaging/" rel="noopener noreferrer">Can your customers still tell your messages from a scammer’s?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/keeping-humans-in-the-loop-7-takeaways-from-ai-real-talk-for-scaling-ai-responsibly/" rel="noopener noreferrer">Keeping humans in the loop: 7 takeaways from AI Real Talk for scaling AI responsibly</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/brand-impersonation-verified-messaging/" rel="noopener noreferrer">Can your customers still tell your messages from a scammer’s?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-ruby/releases/tag/7.11.1" rel="noopener noreferrer">7.11.1</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Ruby SDK Releases</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-php/releases/tag/8.12.0" rel="noopener noreferrer">8.12.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio PHP SDK Releases</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=2ar6t87Txzg" rel="noopener noreferrer">Automate Customer Support Calls with OpenAI and Vonage Voice API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-08-17">2026-08-17</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-16</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-16.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-16.html</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-16.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-16</h1>
+<p>Generated: 2026-08-16 08:37 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-15</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-15.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-15.html</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-15.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-15</h1>
+<p>Generated: 2026-08-15 08:36 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Jq48dd5_Ju8" rel="noopener noreferrer">This AI Quiz Agent Remembers Your Score Across Texts</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=OnyJOhiBAEY" rel="noopener noreferrer">SMS Sentiment Analysis in Real Time</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Jq48dd5_Ju8" rel="noopener noreferrer">This AI Quiz Agent Remembers Your Score Across Texts</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=OnyJOhiBAEY" rel="noopener noreferrer">SMS Sentiment Analysis in Real Time</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/bulk-messaging-supports-whatsapp-content-templates" rel="noopener noreferrer">Bulk Messaging Supports WhatsApp Content Templates</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-14</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-14.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-14.html</guid>
+      <pubDate>Fri, 14 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-14.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-14</h1>
+<p>Generated: 2026-08-14 09:06 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=QNgn1h3XLKI" rel="noopener noreferrer">Build an AI SMS Triage Bot on Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=PPYvQcE8KWM" rel="noopener noreferrer">How to Create a Button in HubSpot to Trigger 1:1 Templated WhatsApp Messages</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6H2qmWunZE4" rel="noopener noreferrer">Build an AI Reminder Agent That Can Snooze Itself</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=PPYvQcE8KWM" rel="noopener noreferrer">How to Create a Button in HubSpot to Trigger 1:1 Templated WhatsApp Messages</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6XPIkwjH-pk" rel="noopener noreferrer">How to Trigger SMS After a Missed Call in HubSpot + Sinch</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=QNgn1h3XLKI" rel="noopener noreferrer">Build an AI SMS Triage Bot on Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6H2qmWunZE4" rel="noopener noreferrer">Build an AI Reminder Agent That Can Snooze Itself</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/build-passwordless-auth-using-totp-with-twilio-verify-nodejs" rel="noopener noreferrer">How to Build Passwordless Auth Using TOTP With Twilio Verify in Node.js</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-08-16">2026-08-16</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-php/releases/tag/8.0.0-rc.2" rel="noopener noreferrer">8.0.0-rc.2</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio PHP SDK Releases</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-ruby/releases/tag/7.11.0" rel="noopener noreferrer">7.11.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Ruby SDK Releases</span><time datetime="2026-08-14">2026-08-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/build-persistent-customer-memory-with-twilio-agent-connect-and-c" rel="noopener noreferrer">Build Persistent Customer Memory with Twilio Agent Connect and Conversation Intelligence</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=I0VndUY0it0" rel="noopener noreferrer">Hablemos de Twilio Conversations</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=W-uAdaC9KRM" rel="noopener noreferrer">Vamos Falar Sobre o Twilio Conversations</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=TtSYsAEBTEg" rel="noopener noreferrer">Conhe&#231;a o Conversation Memory da Twilio</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/functions-classic-deprecation" rel="noopener noreferrer">Functions Classic is being deprecated and existing Functions (Classic) are moving to the new Functions</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-13</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-13.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-13.html</guid>
+      <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-13.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-13</h1>
+<p>Generated: 2026-08-13 09:10 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receiving-sms-delivery-receipts-with-php-dr" rel="noopener noreferrer">Receiving SMS Delivery Receipts with PHP and Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=P14bmgP7G64" rel="noopener noreferrer">Build a Voice Agent That Holds the Call using Telnyx AgentSDK</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/call-center-voice-analytics/" rel="noopener noreferrer">Call center voice analytics: What it is, what it catches, and why coverage matters</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/call-center-voice-analytics/" rel="noopener noreferrer">Call center voice analytics: What it is, what it catches, and why coverage matters</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=P14bmgP7G64" rel="noopener noreferrer">Build a Voice Agent That Holds the Call using Telnyx AgentSDK</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=MUrJhnd42uk" rel="noopener noreferrer">Build an SMS Support Agent That Follows Up Using Telnyx AgentSDK</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.7.1" rel="noopener noreferrer">2.7.1</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/consent-management-api-supports-tollfree-network-opt-out-override" rel="noopener noreferrer">Consent Management API Now Supports Toll-Free Network-Level Opt-Out Overrides</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/REST-API-endpoints-rotated-September-9,-2026" rel="noopener noreferrer">Twilio end-user certificates for all REST API endpoints will be rotated on September 9, 2026</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receiving-sms-delivery-receipts-with-php-dr" rel="noopener noreferrer">Receiving SMS Delivery Receipts with PHP and Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-13">2026-08-13</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-12</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-12.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-12.html</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-12.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-12</h1>
+<p>Generated: 2026-08-12 09:10 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.0" rel="noopener noreferrer">v3.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/how-to-choose-an-answering-service.html" rel="noopener noreferrer">How to Choose an Answering Service: Pricing, Compliance, and Vetting</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/voice-ai-trends.html" rel="noopener noreferrer">Voice AI Trends: Core Business Application</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/how-to-choose-an-answering-service.html" rel="noopener noreferrer">How to Choose an Answering Service: Pricing, Compliance, and Vetting</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/voice-ai-trends.html" rel="noopener noreferrer">Voice AI Trends: Core Business Application</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-12">2026-08-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/contact-center-optimization.html" rel="noopener noreferrer">The Complete Guide to Contact Center Optimization</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/talkdesk-alternatives-competitors.html" rel="noopener noreferrer">10 Talkdesk Alternatives for AI Contact Centers in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-text-messaging-compliance.html" rel="noopener noreferrer">Business SMS Compliance: Rules, Laws, and Carrier Standards</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-text-messaging-for-customer-service.html" rel="noopener noreferrer">Business Text Messaging for Customer Service: A Playbook</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-receptionist-for-law-firms.html" rel="noopener noreferrer">AI Receptionist for Law Firms: Ethics, Security, and Intake</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/automating-service-appointment-booking.html" rel="noopener noreferrer">Automating Service Appointment Booking: The Operational Blueprint</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.0" rel="noopener noreferrer">v3.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-11</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-11.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-11.html</guid>
+      <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-11.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-11</h1>
+<p>Generated: 2026-08-11 09:11 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receiving-an-sms-with-php-dr" rel="noopener noreferrer">Receiving an SMS with PHP</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.13.0" rel="noopener noreferrer">v9.13.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/S8ehaUSTFlU" rel="noopener noreferrer">Voice is Having a Renaissance Due to AI</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/inside-ringcentrals-summer-health-day/" rel="noopener noreferrer">Inside RingCentral’s Summer Health Day</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/S8ehaUSTFlU" rel="noopener noreferrer">Voice is Having a Renaissance Due to AI</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Aj49OU_cEHQ" rel="noopener noreferrer">How Respond.io Scaled Voice from 1,000 to 40,000+ Monthly Calls with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=mOuqEso5qbk" rel="noopener noreferrer">Fraud Dispute Voice Agent with GLM-5.2 on Telnyx Inference</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=A20DMRq6rlU" rel="noopener noreferrer">Voice AI no Brasil: da demo &#224; produ&#231;&#227;o</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-node/releases/tag/6.1.0" rel="noopener noreferrer">6.1.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Node SDK Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-python/releases/tag/9.11.0" rel="noopener noreferrer">9.11.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Python SDK Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.7.0" rel="noopener noreferrer">2.7.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receiving-an-sms-with-php-dr" rel="noopener noreferrer">Receiving an SMS with PHP</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.13.0" rel="noopener noreferrer">v9.13.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-08-11">2026-08-11</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-10</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-10.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-10.html</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-10.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-10</h1>
+<p>Generated: 2026-08-10 09:09 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/medical-office-answering-service/" rel="noopener noreferrer">Medical office answering service: Keep patient calls covered</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/dental-answering-service/" rel="noopener noreferrer">Dental answering service: How practices keep every call covered</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/medical-office-answering-service/" rel="noopener noreferrer">Medical office answering service: Keep patient calls covered</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/dental-answering-service/" rel="noopener noreferrer">Dental answering service: How practices keep every call covered</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-10">2026-08-10</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-09</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-09.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-09.html</guid>
+      <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-09.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-09</h1>
+<p>Generated: 2026-08-09 08:47 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-08</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-08.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-08.html</guid>
+      <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-08.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-08</h1>
+<p>Generated: 2026-08-08 08:47 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=EShDuswRNp0" rel="noopener noreferrer">Hear Every Telnyx Ultra Voice in One Scene</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/dental-answering-service.html" rel="noopener noreferrer">Dental Answering Service: Live, AI, or Hybrid?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/answering-service-for-electricians.html" rel="noopener noreferrer">Answering Service for Electricians: The Complete 24/7 Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/dental-answering-service.html" rel="noopener noreferrer">Dental Answering Service: Live, AI, or Hybrid?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/answering-service-for-electricians.html" rel="noopener noreferrer">Answering Service for Electricians: The Complete 24/7 Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=EShDuswRNp0" rel="noopener noreferrer">Hear Every Telnyx Ultra Voice in One Scene</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-07</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-07.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-07.html</guid>
+      <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-07.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-07</h1>
+<p>Generated: 2026-08-07 09:09 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/tcf8UYLpSp0" rel="noopener noreferrer">What can you do with an AI agent for customer communication?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=jRYZ-XtIXwU" rel="noopener noreferrer">Click-to-Call WebRTC App with Real Time AI Coaching</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-vs-imessage/" rel="noopener noreferrer">RCS vs iMessage: What’s the difference in 2026?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=AwLEGO5de9s" rel="noopener noreferrer">Expertise, Innovation &amp; Human Capital: Why IamCRYPTO Values Infobip | 20 Customers</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-call-center-agent/" rel="noopener noreferrer">AI call center agent: What it is and how to evaluate one</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-06">2026-08-06</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/tcf8UYLpSp0" rel="noopener noreferrer">What can you do with an AI agent for customer communication?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-vs-imessage/" rel="noopener noreferrer">RCS vs iMessage: What’s the difference in 2026?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-security/" rel="noopener noreferrer">RCS security: Is RCS encrypted, and is it safe to use?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-in-technology-saas/" rel="noopener noreferrer">RCS for SaaS: How technology companies use it across the customer lifecycle</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-in-banking-financial-services/" rel="noopener noreferrer">RCS in banking: The next step in digital customer experience</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/history-of-rcs/" rel="noopener noreferrer">A brief history of RCS messaging</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-vs-sms/" rel="noopener noreferrer">RCS vs SMS: What’s the difference and when to use each?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-marketing/" rel="noopener noreferrer">RCS marketing: What it is and how to get started</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/ZmA0FLNKlbc" rel="noopener noreferrer">Intelligent orchestration for customer conversations</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-06">2026-08-06</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=jRYZ-XtIXwU" rel="noopener noreferrer">Click-to-Call WebRTC App with Real Time AI Coaching</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-07">2026-08-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=S9cWFKAXh8I" rel="noopener noreferrer">Build AI Voice Flashcards with Telnyx (TTS + STT + Inference)</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-06">2026-08-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ycATA8KHCi4" rel="noopener noreferrer">This Voice AI Agent Switches Languages Mid-Conversation</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-06">2026-08-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=jxAsBWPKTlI" rel="noopener noreferrer">Stop Guessing Which AI Prompt Works</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-06">2026-08-06</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-05</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-05.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-05.html</guid>
+      <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-05.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-05</h1>
+<p>Generated: 2026-08-05 09:54 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=0Szq-Fuf7SU" rel="noopener noreferrer">Turning Social Clicks into Sales: A WhatsApp Shopping Experience Demo</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-05">2026-08-05</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=0Szq-Fuf7SU" rel="noopener noreferrer">Turning Social Clicks into Sales: A WhatsApp Shopping Experience Demo</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-05">2026-08-05</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-04</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-04.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-04.html</guid>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-04.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-04</h1>
+<p>Generated: 2026-08-04 10:04 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/verify-conversion-alerts-in-fraud-defender" rel="noopener noreferrer">Verify Conversion Alerts in Fraud Defender</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=zFlQnV6XgTE" rel="noopener noreferrer">How WhatsApp Payment Reminders Reduce Missed Payments (and Improve CX)</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/y1JMLOrypgI" rel="noopener noreferrer">What does an AI failure cost?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/contact-center-architecture.html" rel="noopener noreferrer">What Is Contact Center Architecture &amp; How Does It Work?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-03">2026-08-03</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/6-cx-lessons-from-metrigys-2026-research-on-ai-adoption/" rel="noopener noreferrer">6 CX lessons from Metrigy’s 2026 research on AI adoption</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-03">2026-08-03</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=zFlQnV6XgTE" rel="noopener noreferrer">How WhatsApp Payment Reminders Reduce Missed Payments (and Improve CX)</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/y1JMLOrypgI" rel="noopener noreferrer">What does an AI failure cost?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/ip-addres-event-streams-webhooks-us-east" rel="noopener noreferrer">New Regional IP Address for Event Streams Webhooks in US East</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/update-to-sendgrid-domain-authentication--send-to-coworker-actio" rel="noopener noreferrer">Update to SendGrid Domain Authentication: Send to Coworker Action Removed</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-03">2026-08-03</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/verify-conversion-alerts-in-fraud-defender" rel="noopener noreferrer">Verify Conversion Alerts in Fraud Defender</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-04">2026-08-04</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-03</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-03.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-03.html</guid>
+      <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-03.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-03</h1>
+<p>Generated: 2026-08-03 10:20 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/native-video-reference-app-1-3-release-new-developer-features" rel="noopener noreferrer">Native Video Reference App 1.3 Release: New Developer Features</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-03">2026-08-03</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/native-video-reference-app-1-3-release-new-developer-features" rel="noopener noreferrer">Native Video Reference App 1.3 Release: New Developer Features</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-03">2026-08-03</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-02</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-02.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-02.html</guid>
+      <pubDate>Sun, 02 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-02.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-02</h1>
+<p>Generated: 2026-08-02 09:14 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-01</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-01.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-01.html</guid>
+      <pubDate>Sat, 01 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-01.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-01</h1>
+<p>Generated: 2026-08-01 09:14 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=KGdga3YpmPI" rel="noopener noreferrer">Voice AI Payment Collection That Keeps Card Details Out of the Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=EQElfYuUXGM" rel="noopener noreferrer">Build AI Assistants with Client-Side Tools</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_bVXGVAkQzw" rel="noopener noreferrer">Voice AI HIPAA Aware Lab Results</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=KGdga3YpmPI" rel="noopener noreferrer">Voice AI Payment Collection That Keeps Card Details Out of the Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=EQElfYuUXGM" rel="noopener noreferrer">Build AI Assistants with Client-Side Tools</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_bVXGVAkQzw" rel="noopener noreferrer">Voice AI HIPAA Aware Lab Results</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/restricted-api-keys--conversations--classic--permissions" rel="noopener noreferrer">Restricted API Keys, Conversations (classic) permissions</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/whatsapp-card---flows-support-in-conversations--classic-" rel="noopener noreferrer">WhatsApp Card &amp; Flows Support in Conversations (classic)</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-31</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-31.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-31.html</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-31.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-31</h1>
+<p>Generated: 2026-07-31 09:58 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/college-athletic-departments-ai-powered-communications/" rel="noopener noreferrer">Competing off the field: How college athletic departments can win with AI-powered communications</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ap90ZrN3SpU" rel="noopener noreferrer">Route Voicemails Automatically with Telnyx AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/YSG_9_K4cgI" rel="noopener noreferrer">The future of customer conversations</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=GDeq1lwqA_g" rel="noopener noreferrer">The Future of Conversational AI: How Infobip Chatbots Enhance Business in Malaysia | 20 Partners</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/college-athletic-departments-ai-powered-communications/" rel="noopener noreferrer">Competing off the field: How college athletic departments can win with AI-powered communications</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/legal-answering-service/" rel="noopener noreferrer">Legal answering service: How law firms stop losing calls</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/YSG_9_K4cgI" rel="noopener noreferrer">The future of customer conversations</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ap90ZrN3SpU" rel="noopener noreferrer">Route Voicemails Automatically with Telnyx AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=wzg_HzrSmks" rel="noopener noreferrer">Build a Real Time AI Translation Bridge using Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=NDaKpEYQoMA" rel="noopener noreferrer">Turn Call Recordings into Safer Transcripts with Telnyx AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Ybmz7Zod7no" rel="noopener noreferrer">Build an AI Quiz Generator in Python with Telnyx AI Inference</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=MtruRbWKfZk" rel="noopener noreferrer">CMO Event | O Sexto Sentido do Marketing: Chega de Relat&#243;rios de Ontem</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio YouTube</span><time datetime="2026-07-31">2026-07-31</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-30</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-30.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-30.html</guid>
+      <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-30.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-30</h1>
+<p>Generated: 2026-07-30 09:51 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/seeking-validation-data-validation-in-python-with-pydantic-and-vonage-verify" rel="noopener noreferrer">Seeking Validation: Data Validation in Python with Pydantic and Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v3.29.0" rel="noopener noreferrer">3.29.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/3.29.0" rel="noopener noreferrer">3.29.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/sales-email-templates.html" rel="noopener noreferrer">50+ Sales Email Templates for Every Stage of the Pipeline</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/o5m8aIPT6YM" rel="noopener noreferrer">Intelligent Conversations with Customers</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=b0o5XeOzvRQ" rel="noopener noreferrer">Ultradoc Runs HIPAA-Compliant Voice AI on Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=a3EN2LeHiSo" rel="noopener noreferrer">Voice AI para LATAM: de llamadas a workflows inteligentes | Webinar</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.2.0" rel="noopener noreferrer">Twilio Flex SDK 4.2.0 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.2.0-rc.1" rel="noopener noreferrer">Twilio Flex SDK 4.2.0-rc.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/functions-assets-API-date-created-and-date-updated-timestamps" rel="noopener noreferrer">Functions and Assets API date_created and date_updated timestamps will be corrected on September 1, 2026</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/seeking-validation-data-validation-in-python-with-pydantic-and-vonage-verify" rel="noopener noreferrer">Seeking Validation: Data Validation in Python with Pydantic and Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-30">2026-07-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v3.29.0" rel="noopener noreferrer">3.29.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/3.29.0" rel="noopener noreferrer">3.29.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-29</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-29.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-29.html</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-29.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-29</h1>
+<p>Generated: 2026-07-29 09:39 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/introducing-passkey-authentication-by-vonage" rel="noopener noreferrer">Introducing Passkey Authentication by Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-ios-client-library/releases/tag/1.2.0" rel="noopener noreferrer">1.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client Library Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ohtEMIDCgpc" rel="noopener noreferrer">Ultradoc Runs HIPAA-Compliant Voice AI on Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=jcMccdw3WYM" rel="noopener noreferrer">Infobip x Coop Alleanza 3.0: Scaling personalized engagement across 316 stores with WhatsApp</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=j1whRrXJCCQ" rel="noopener noreferrer">Building Impactful Value: How Google &amp; Infobip are Transforming Digital Communication | 20 Partners</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=4E8gj-z1Cqo" rel="noopener noreferrer">Sinch Conversational Commerce Demo: Ecommerce Customer Journey Walkthrough</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ohtEMIDCgpc" rel="noopener noreferrer">Ultradoc Runs HIPAA-Compliant Voice AI on Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/introducing-passkey-authentication-by-vonage" rel="noopener noreferrer">Introducing Passkey Authentication by Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-29">2026-07-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-ios-client-library/releases/tag/1.2.0" rel="noopener noreferrer">1.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client Library Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-28</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-28.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-28.html</guid>
+      <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-28.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-28</h1>
+<p>Generated: 2026-07-28 09:52 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/recovering-from-service-disruptions-with-the-vonage-video-api" rel="noopener noreferrer">Recovering from Service Disruptions with the Vonage Video API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.1-snapshot.202607280910" rel="noopener noreferrer">v2.6.1-snapshot.202607280910</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/H5scK_iMzIg" rel="noopener noreferrer">Two Major Updates to WhatsApp in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="plivo">Plivo</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/plivo/plivo-python/releases/tag/v4.62.0" rel="noopener noreferrer">v4.62.0</a><span class="story-meta"><span class="provider-badge" data-provider="plivo">Plivo</span><span>Plivo Python SDK Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/plivo/plivo-node/releases/tag/v4.79.0" rel="noopener noreferrer">v4.79.0</a><span class="story-meta"><span class="provider-badge" data-provider="plivo">Plivo</span><span>Plivo Node SDK Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/call-monitoring-software/" rel="noopener noreferrer">Call monitoring software: what it covers beyond recording</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/H5scK_iMzIg" rel="noopener noreferrer">Two Major Updates to WhatsApp in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=0fiek5mTQng" rel="noopener noreferrer">Mailgun Inspect: Test and QA Emails in Salesforce | Shipped Q2 2026</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ht1psZMHvO4" rel="noopener noreferrer">Shipped: Sinch Product Release Showcase | Q2 2026 edition</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=5GJD0EG3AFY" rel="noopener noreferrer">Sinch Chat and Push: AI-powered app and web live chat | Shipped Q2 2026</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_MFuSYDnaWo" rel="noopener noreferrer">Sinch Tools: Developer Toolkit for AI-powered Comms | Shipped Q2 2026</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/real-time-whatsapp-template-approval-and-category-updates-via-ev" rel="noopener noreferrer">Real-time WhatsApp Template Approval and Category Updates via Event Streams</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/recovering-from-service-disruptions-with-the-vonage-video-api" rel="noopener noreferrer">Recovering from Service Disruptions with the Vonage Video API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.1-snapshot.202607280910" rel="noopener noreferrer">v2.6.1-snapshot.202607280910</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-28">2026-07-28</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-27</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-27.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-27.html</guid>
+      <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-27.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-27</h1>
+<p>Generated: 2026-07-27 10:11 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=pHy38d9mZyg" rel="noopener noreferrer">My AI Agent Runs a Real API Account (Part 2)</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/pzxtJQUcnEE" rel="noopener noreferrer">The best leaders let go of their teams</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ringcentral-pricing.html" rel="noopener noreferrer">RingCentral Pricing 2026: Plans, Fees, Add-Ons &amp; Whether It’s Worth It</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=rpjKHEhSF-M" rel="noopener noreferrer">Transforming customer experience: Safaricom’s Vision for Agentic AI with Infobip | 20 Customers</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ringcentral-pricing.html" rel="noopener noreferrer">RingCentral Pricing 2026: Plans, Fees, Add-Ons &amp; Whether It’s Worth It</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/pzxtJQUcnEE" rel="noopener noreferrer">The best leaders let go of their teams</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=pHy38d9mZyg" rel="noopener noreferrer">My AI Agent Runs a Real API Account (Part 2)</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-27">2026-07-27</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-26</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-26.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-26.html</guid>
+      <pubDate>Sun, 26 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-26.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-26</h1>
+<p>Generated: 2026-07-26 09:14 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=MAIYov79wks" rel="noopener noreferrer">Build an AI Moderation Classifier in Python</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=MAIYov79wks" rel="noopener noreferrer">Build an AI Moderation Classifier in Python</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-25</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-25.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-25.html</guid>
+      <pubDate>Sat, 25 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-25.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-25</h1>
+<p>Generated: 2026-07-25 09:12 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.12.0" rel="noopener noreferrer">v9.12.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.11.0" rel="noopener noreferrer">v9.11.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.12.0" rel="noopener noreferrer">v9.12.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-java-sdk/releases/tag/v9.11.0" rel="noopener noreferrer">v9.11.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Java SDK Releases</span><time datetime="2026-07-25">2026-07-25</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-24</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-24.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-24.html</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-24.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-24</h1>
+<p>Generated: 2026-07-24 09:58 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=dO4URLt4mwU" rel="noopener noreferrer">Build an AI Adventure Game in Python</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-24">2026-07-24</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HM4LWUEaSBU" rel="noopener noreferrer">Pre Insurance Claim Intake Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=9GNoXJpHMYg" rel="noopener noreferrer">Prescription Refill AI Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/aircall-pricing.html" rel="noopener noreferrer">Is Aircall Worth It? Aircall Pricing Breakdown (2026)</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=dO4URLt4mwU" rel="noopener noreferrer">Build an AI Adventure Game in Python</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-24">2026-07-24</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HM4LWUEaSBU" rel="noopener noreferrer">Pre Insurance Claim Intake Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=9GNoXJpHMYg" rel="noopener noreferrer">Prescription Refill AI Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=NIbixwwafCE" rel="noopener noreferrer">Build Semantic Search in Python with Telnyx AI Inference</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-23</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-23.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-23.html</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-23.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-23</h1>
+<p>Generated: 2026-07-23 09:48 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/mL31a9pKQSk" rel="noopener noreferrer">I Put an AI Agent in Charge</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=FdeFLgbHRrE" rel="noopener noreferrer">How VegaNext Built an AI Receptionist Platform on Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.infobip.com/developers/blog/openais-luis-velasco-to-speak-at-infobip-shift-2026" rel="noopener noreferrer">OpenAI’s Luis Velasco to speak at Infobip Shift 2026</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip Developer Blog</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.infobip.com/developers/blog/openais-luis-velasco-to-speak-at-infobip-shift-2026" rel="noopener noreferrer">OpenAI’s Luis Velasco to speak at Infobip Shift 2026</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip Developer Blog</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/contractor-answering-service/" rel="noopener noreferrer">Contractor answering service: Stop losing jobs to a missed call</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/paoCkoHVO80" rel="noopener noreferrer">RCS Conversations with Brands though Google Search</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=FdeFLgbHRrE" rel="noopener noreferrer">How VegaNext Built an AI Receptionist Platform on Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=KQFI0EQuAig" rel="noopener noreferrer">Screen Every Inbound Call at the Carrier Edge using Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/make-ai-voice-sound-more-human-less-robotic-php" rel="noopener noreferrer">How to Make Your AI Voice Sound More Human and Less Robotic with PHP</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/mL31a9pKQSk" rel="noopener noreferrer">I Put an AI Agent in Charge</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-22</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-22.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-22.html</guid>
+      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-22.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-22</h1>
+<p>Generated: 2026-07-22 15:30 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-mcp-server-update-reports-numbers-and-charts" rel="noopener noreferrer">Vonage MCP Server Update: Reports, Numbers, and Charts</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=lmrLPGyn6lY" rel="noopener noreferrer">How SMS helped OneMRI turbo-charge growth</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=AHX4tSYO0kc" rel="noopener noreferrer">How to Build Multi-Participant Voice AI Calls with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ibMgNfTJa2E" rel="noopener noreferrer">Infobip Q2 Product Updates 2026: From AI-Powered Insights to Smarter Customer Engagement</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/property-management-answering-service/" rel="noopener noreferrer">Property management answering service: Live agents vs. AI receptionists compared</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/real-estate-answering-service/" rel="noopener noreferrer">Real estate answering service: How to never miss a lead</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-agent-assist/" rel="noopener noreferrer">What is AI agent assist? How real-time AI supports live agents</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/whats-new-ringex-ai-agents-smarter-admin-controls-june-2026/" rel="noopener noreferrer">What’s new in RingEX: AI agents, smarter admin controls, and more | June 2026 recap</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=lmrLPGyn6lY" rel="noopener noreferrer">How SMS helped OneMRI turbo-charge growth</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=AHX4tSYO0kc" rel="noopener noreferrer">How to Build Multi-Participant Voice AI Calls with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/handle-background-noise-when-using-conversation-relay-in-php" rel="noopener noreferrer">How to Handle Background Noise When Using Conversation Relay in PHP</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-07-23">2026-07-23</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/twilio-taskrouter/v/3.1.0-rc.1" rel="noopener noreferrer">Twilio TaskRouter JavaScript SDK 3.1.0-rc.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio TaskRouter JavaScript SDK Releases</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-mcp-server-update-reports-numbers-and-charts" rel="noopener noreferrer">Vonage MCP Server Update: Reports, Numbers, and Charts</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-22">2026-07-22</time></span></li>
+</ul>
+<h2 id="source-warnings">Source Warnings</h2>
+<ul>
+<li>Telnyx Resources: The response ended prematurely. (ResponseEnded)</li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-21</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-21.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-21.html</guid>
+      <pubDate>Tue, 21 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-21.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-21</h1>
+<p>Generated: 2026-07-21 09:43 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/introducing-the-vonage-protection-suite-for-okta" rel="noopener noreferrer">Introducing the Vonage Protection Suite for Okta</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.1" rel="noopener noreferrer">v2.6.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Yxp5JjE4Fz8" rel="noopener noreferrer">Gluten-free grains and fuss-free messaging at GF Oats</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.infobip.com/developers/blog/microsoft-reactor-webinar-ai-mcp" rel="noopener noreferrer">Microsoft Reactor Webinar with Infobip: Giving Microsoft AI Agents Communication Superpowers</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip Developer Blog</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=RD4XdtWYrGA" rel="noopener noreferrer">The Hidden Supply Chain Behind Messaging: What BFSI Needs to Know About Trust, Control, and CX</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/hipaa-compliant-video-conferencing/" rel="noopener noreferrer">HIPAA Compliant Video Conferencing Software: 2026 Buying Guide</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/what-is-agentic-ai/" rel="noopener noreferrer">What is agentic AI and why does it matter for business communications</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Yxp5JjE4Fz8" rel="noopener noreferrer">Gluten-free grains and fuss-free messaging at GF Oats</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/introducing-the-vonage-protection-suite-for-okta" rel="noopener noreferrer">Introducing the Vonage Protection Suite for Okta</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.1" rel="noopener noreferrer">v2.6.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-21">2026-07-21</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-20</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-20.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-20.html</guid>
+      <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-20.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-20</h1>
+<p>Generated: 2026-07-20 15:42 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=b3LLz59Xjbs" rel="noopener noreferrer">Schedule Meetings With WhatsApp (Using Claude Code &amp; Google Calendar)</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.8.2" rel="noopener noreferrer">v4.8.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/how-811-centers-modernize-call-saves-lives/" rel="noopener noreferrer">Before the first shovel hits the ground: How 811 centers can modernize the call that saves lives</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/how-811-centers-modernize-call-saves-lives/" rel="noopener noreferrer">Before the first shovel hits the ground: How 811 centers can modernize the call that saves lives</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/jAOKqBL_NIQ" rel="noopener noreferrer">How has AI impacted email marketing?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-communications-financial-services/" rel="noopener noreferrer">Investing in AI governance isn’t keeping financial services agents live</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HWTXPZtWuO0" rel="noopener noreferrer">The efficient frontier in AI, explained in two minutes</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.1.0" rel="noopener noreferrer">Twilio Flex SDK 4.1.0 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=b3LLz59Xjbs" rel="noopener noreferrer">Schedule Meetings With WhatsApp (Using Claude Code &amp; Google Calendar)</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.8.2" rel="noopener noreferrer">v4.8.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-07-20">2026-07-20</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-19</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-19.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-19.html</guid>
+      <pubDate>Sun, 19 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-19.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-19</h1>
+<p>Generated: 2026-07-19 19:35 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-18</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-18.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-18.html</guid>
+      <pubDate>Sat, 18 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-18.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-18</h1>
+<p>Generated: 2026-07-18 15:52 +00:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=wTzlgxJm8pM" rel="noopener noreferrer">Debug Stack Traces with AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-18">2026-07-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Z16BOk9hdOw" rel="noopener noreferrer">AI Subscription Cancel-Save Retention Agent</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-18">2026-07-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/what-is-hosted-pbx.html" rel="noopener noreferrer">What Is a Hosted PBX (Private Branch Exchange)?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/what-is-hosted-pbx.html" rel="noopener noreferrer">What Is a Hosted PBX (Private Branch Exchange)?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://newrcblog.wpengine.com/us/en/blog/sales-intelligence-software/" rel="noopener noreferrer">Sales Intelligence Software: What it is and Top Tools for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://newrcblog.wpengine.com/us/en/blog/orchestrating-the-future-enterprise-2026-ringcentral-china-hackathon-inspires-the-next-wave-of-ai-innovation/" rel="noopener noreferrer">Orchestrating the Future Enterprise: 2026 RingCentral China Hackathon Inspires the Next Wave of AI Innovation</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=wTzlgxJm8pM" rel="noopener noreferrer">Debug Stack Traces with AI</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-18">2026-07-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Z16BOk9hdOw" rel="noopener noreferrer">AI Subscription Cancel-Save Retention Agent</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-18">2026-07-18</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-17</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-17.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-17.html</guid>
+      <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-17.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-17</h1>
+<p>Generated: 2026-07-17 23:41 +00:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=smWs28GPZ_8" rel="noopener noreferrer">AI Assistant Filler Messages: Eliminate Dead Air on Voice AI Calls</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=GE5bK0Miczw" rel="noopener noreferrer">AI Content Translator</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=zy_16D8eMlQ" rel="noopener noreferrer">AI Hotel Guest Services Line</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/6NoBOigBn3Q" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/orchestrating-the-future-enterprise-2026-ringcentral-china-hackathon-inspires-the-next-wave-of-ai-innovation/" rel="noopener noreferrer">Orchestrating the Future Enterprise: 2026 RingCentral China Hackathon Inspires the Next Wave of AI Innovation</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/sales-intelligence-software/" rel="noopener noreferrer">Sales Intelligence Software: What it is and Top Tools for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/how-rcs-works/" rel="noopener noreferrer">How does RCS work? The technology behind rich messaging</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=smWs28GPZ_8" rel="noopener noreferrer">AI Assistant Filler Messages: Eliminate Dead Air on Voice AI Calls</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=GE5bK0Miczw" rel="noopener noreferrer">AI Content Translator</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=zy_16D8eMlQ" rel="noopener noreferrer">AI Hotel Guest Services Line</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=nkKtiuFzOpc" rel="noopener noreferrer">Build a Backend for Your Voice AI Assistant</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=vPFosngf5XI" rel="noopener noreferrer">Telnyx Phone Negotiator</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/YEUANFMNtTM" rel="noopener noreferrer">Can AI Voices Do Emphasis? Same Sentence, Six Different Meanings</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/error-code-30915-now-flags-invalid-sole-proprietor-classificatio" rel="noopener noreferrer">Error code 30915 now flags invalid Sole Proprietor classification for both A2P 10DLC and Toll-Free Verification</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-07-17">2026-07-17</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-16</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-16.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-16.html</guid>
+      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-16.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-16</h1>
+<p>Generated: 2026-07-16 16:16 +00:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/ai-dominates-the-second-vonage-startup-program-cohort" rel="noopener noreferrer">AI Dominates the Second Vonage Startup Program Cohort</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.0" rel="noopener noreferrer">v2.6.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-vs-whatsapp/" rel="noopener noreferrer">RCS vs WhatsApp: Which channel is best for business messaging?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-vs-whatsapp/" rel="noopener noreferrer">RCS vs WhatsApp: Which channel is best for business messaging?</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/QtvKdPLYcIo" rel="noopener noreferrer">The Main Values of Conversational Messaging &amp; How it Can Help Your Brand</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=fzGO4Yd2sWQ" rel="noopener noreferrer">Turn Your AI Chatbot Into AI Voice Bot With Telnyx Conversation Relay</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.1.0-rc.2" rel="noopener noreferrer">Twilio Flex SDK 4.1.0-rc.2 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/ai-dominates-the-second-vonage-startup-program-cohort" rel="noopener noreferrer">AI Dominates the Second Vonage Startup Program Cohort</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.0" rel="noopener noreferrer">v2.6.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-07-16">2026-07-16</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-15</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-15.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-15.html</guid>
+      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-15.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-15</h1>
+<p>Generated: 2026-07-15 17:08 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/access-the-vonage-tooling-mcp-server-on-google-antigravity" rel="noopener noreferrer">Access the Vonage Tooling MCP Server on Google Antigravity</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-text-messaging-tools.html" rel="noopener noreferrer">8 Best Text Messaging Services for Business in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/pJ9_BxNWOiE" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/pJ9_BxNWOiE" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-text-messaging-tools.html" rel="noopener noreferrer">8 Best Text Messaging Services for Business in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/hosted-contact-center.html" rel="noopener noreferrer">Hosted Call Center: How Cloud Contact Centers Work</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/conversations-ios/releases/tag/v4.0.8" rel="noopener noreferrer">Twilio Conversations Client iOS 4.0.8</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Conversations iOS SDK Releases</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.1.0-rc.1" rel="noopener noreferrer">Twilio Flex SDK 4.1.0-rc.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/ai-phone-agent-twilio-conversation-relay-php" rel="noopener noreferrer">How to Build An AI Phone Agent With Twilio Conversation Relay in PHP</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-07-14">2026-07-14</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/access-the-vonage-tooling-mcp-server-on-google-antigravity" rel="noopener noreferrer">Access the Vonage Tooling MCP Server on Google Antigravity</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-07-15">2026-07-15</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-14</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-14.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-14.html</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-14.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-14</h1>
+<p>Generated: 2026-07-14 12:00 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/Hv4UnIy_Tdo" rel="noopener noreferrer">Two BIGGEST Advantages of AI</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-14">2026-07-14</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/Hv4UnIy_Tdo" rel="noopener noreferrer">Two BIGGEST Advantages of AI</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-07-14">2026-07-14</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-13</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-13.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-13.html</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-13.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-13</h1>
+<p>Generated: 2026-07-13 12:00 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/2ybypN0Cqyc" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-13">2026-07-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/context-preservation-ai-communications/" rel="noopener noreferrer">Customers remember every interaction. The infrastructure underneath your AI should too.</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-13">2026-07-13</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/2ybypN0Cqyc" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-13">2026-07-13</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/context-preservation-ai-communications/" rel="noopener noreferrer">Customers remember every interaction. The infrastructure underneath your AI should too.</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-13">2026-07-13</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-11</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-11.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-11.html</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-11.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-11</h1>
+<p>Generated: 2026-07-11 12:00 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=4IDksYNHysA" rel="noopener noreferrer">Conversational AI Gamification - Deliver engagement users remember</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-11">2026-07-11</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=4IDksYNHysA" rel="noopener noreferrer">Conversational AI Gamification - Deliver engagement users remember</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-11">2026-07-11</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>CPaaS Developer Digest - 2026-07-10</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-10.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-07-10.html</guid>
+      <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-07-10.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-07-10</h1>
+<p>Generated: 2026-07-10 16:11 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/luLSHW6hXJg" rel="noopener noreferrer">Should Your AI Run Inside Your Firewall?</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=IJ37BtYEUtw" rel="noopener noreferrer">Build an AI Language Learning Phone Tutor with Telnyx Voice AI and AI Inference</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/5Ng5QIxL-bY" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/5Ng5QIxL-bY" rel="noopener noreferrer">Conversational AI Gamification: amplify user engagement through immersive play</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/trust-gap-in-finance/" rel="noopener noreferrer">Face-to-face trust in a screen-to-screen era</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-retail-customer-communications/" rel="noopener noreferrer">Retail AI is scaling on a foundation that puts customer trust at risk</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/the-best-sms-api/" rel="noopener noreferrer">The best SMS APIs of 2026, put to the test</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=IJ37BtYEUtw" rel="noopener noreferrer">Build an AI Language Learning Phone Tutor with Telnyx Voice AI and AI Inference</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=kEj8yIJ49yU" rel="noopener noreferrer">Deploy an MCP Server to Edge Compute, Expose Telnyx APIs as Tools for AI Agents</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=fiPUPiAiWbk" rel="noopener noreferrer">Voicemail Transciption</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/luLSHW6hXJg" rel="noopener noreferrer">Should Your AI Run Inside Your Firewall?</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-07-10">2026-07-10</time></span></li>
+</ul>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

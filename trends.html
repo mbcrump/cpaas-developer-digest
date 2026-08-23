@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="CPaaS developer publishing trends by topic and provider.">
+  <meta name="theme-color" content="#111719">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="CPaaS Digest">
+  <title>Developer Trends | CPaaS Developer Digest</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3XCEEHRSMD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-3XCEEHRSMD');
+  </script>
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon-v2.png" sizes="180x180">
+  <link rel="apple-touch-icon-precomposed" href="assets/apple-touch-icon-v2.png" sizes="180x180">
+  <link rel="manifest" href="assets/site.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="CPaaS Developer Digest RSS Feed" href="feed.xml">
+  <link rel="stylesheet" href="assets/styles-v14.css">
+</head>
+<body>
+  <main id="top">
+    <nav class="site-nav"><span class="nav-primary"><a class="nav-home" href="index.html">Home</a><a href="trends.html" aria-current="page">Trends</a></span><a class="nav-rss" href="feed.xml" type="application/rss+xml">RSS Feed</a></nav>
+    <section class="hero trends-hero">
+      <p class="eyebrow">Archive intelligence</p>
+      <h1>Developer Trends</h1>
+      <p>Explore the topics CPaaS providers are publishing for developers. Counts reflect published content in this digest, not internal product strategy.</p>
+    </section>
+    <div class="trend-toolbar" aria-label="Trend date range">
+      <span>Time period</span>
+      <div class="period-control">
+        <button type="button" data-period="30">30 days</button>
+        <button type="button" data-period="90">90 days</button>
+        <button type="button" data-period="all" class="is-active" aria-pressed="true">All time</button>
+      </div>
+    </div>
+    <p id="trend-status" class="trend-status" aria-live="polite">Loading archive data...</p>
+    <section id="trend-dashboard" hidden>
+      <div id="trend-summary" class="trend-summary" aria-label="Archive summary"></div>
+      <section class="trend-section" aria-labelledby="heatmap-heading">
+        <div class="section-heading-row"><div><p class="section-kicker">Competitive view</p><h2 id="heatmap-heading">Provider × Topic</h2></div><p>Darker cells indicate more stories. Select a count to see those stories.</p></div>
+        <div id="topic-heatmap" class="heatmap-wrap"></div>
+      </section>
+      <div class="trend-grid">
+        <section class="trend-section" aria-labelledby="vonage-heading"><p class="section-kicker">Published content</p><h2 id="vonage-heading">Vonage Focus</h2><div id="vonage-focus" class="bar-chart"></div></section>
+        <section class="trend-section" aria-labelledby="topics-heading"><p class="section-kicker">Across all providers</p><h2 id="topics-heading">Most Common Topics</h2><div id="topic-activity" class="bar-chart"></div></section>
+      </div>
+      <section class="trend-section" aria-labelledby="monthly-heading">
+        <div class="section-heading-row"><div><p class="section-kicker">Publishing mix</p><h2 id="monthly-heading">Topic Trend by Month</h2></div><p>Each band shows the share of that month's developer content.</p></div>
+        <div id="topic-legend" class="topic-legend"></div>
+        <div id="monthly-trend" class="monthly-trend"></div>
+      </section>
+      <div class="trend-grid">
+        <section class="trend-section" aria-labelledby="providers-heading"><p class="section-kicker">Publishing volume</p><h2 id="providers-heading">Provider Activity</h2><div id="provider-activity" class="bar-chart"></div></section>
+        <section class="trend-section" aria-labelledby="formats-heading"><p class="section-kicker">Format</p><h2 id="formats-heading">Content Mix</h2><div id="content-mix" class="bar-chart"></div></section>
+      </div>
+      <details class="methodology"><summary>How topics are categorized</summary><p>Each story receives one primary topic from its title, source, and URL using consistent keyword rules. Categories describe the content providers published; they do not measure investment, revenue, or roadmap priority.</p></details>
+    </section>
+    <nav class="page-actions index-actions" aria-label="Page navigation"><a href="index.html"><span aria-hidden="true">&larr;</span> Back to home</a><a href="#top">Back to top <span aria-hidden="true">&uarr;</span></a></nav>
+    <script id="trends-manifest" type="application/json">{"months":[{"key":"2026-07","label":"July 2026","file":"search/2026-07.json","count":120},{"key":"2026-08","label":"August 2026","file":"search/2026-08.json","count":103}],"providers":["Infobip","Nextiva","Plivo","RingCentral","Sinch","Telnyx","Twilio","Vonage"],"types":["Blog","Changelog","SDK Release","Video"],"topics":["AI \u0026 Agents","Authentication \u0026 Trust","Contact Center","Messaging \u0026 RCS","Platform \u0026 Operations","SDKs \u0026 Tooling","Video","Voice"],"latestDate":"2026-08-22"}</script>
+    <script src="assets/trends-v1.js"></script>
+  </main>
+</body>
+</html>
