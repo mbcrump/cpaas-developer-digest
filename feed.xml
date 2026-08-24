@@ -5,8 +5,26 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:57:56 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-24</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-24.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-24.html</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-24.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-24</h1>
+<p>Generated: 2026-08-24 08:57 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-communications-healthcare/" rel="noopener noreferrer">Healthcare must overcome more than compliance to scale AI communications</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-24">2026-08-24</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-communications-healthcare/" rel="noopener noreferrer">Healthcare must overcome more than compliance to scale AI communications</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-24">2026-08-24</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-08-23</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-23.html</link>
