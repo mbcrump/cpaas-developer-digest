@@ -5,8 +5,45 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 15:57:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:02:30 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-25</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-25.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-25.html</guid>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-25.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-25</h1>
+<p>Generated: 2026-08-25 09:01 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.3" rel="noopener noreferrer">v2.6.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/frictionless-authentication-on-ios-silent-network-verification-with-vonage-verify" rel="noopener noreferrer">Frictionless Authentication on iOS: Silent Network Verification with Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.2" rel="noopener noreferrer">v2.6.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=FME54E03yLc" rel="noopener noreferrer">How HubSpot Partners Solution One and Sinch power gym messaging</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ZvEgg_CA_aM" rel="noopener noreferrer">Build a Multi Agent AI Workflow with Shared CloudFS on Telnyx Edge</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=k7NYljDVEaU" rel="noopener noreferrer">Custom Domains are live for Telnyx Edge Compute Functions</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-24">2026-08-24</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-csharp/releases/tag/8.0.0" rel="noopener noreferrer">8.0.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio C# .NET SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.8.0" rel="noopener noreferrer">2.8.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.3" rel="noopener noreferrer">v2.6.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/frictionless-authentication-on-ios-silent-network-verification-with-vonage-verify" rel="noopener noreferrer">Frictionless Authentication on iOS: Silent Network Verification with Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.2" rel="noopener noreferrer">v2.6.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.2-snapshot.202608250912" rel="noopener noreferrer">v2.6.2-snapshot.202608250912</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-08-24</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-24.html</link>
