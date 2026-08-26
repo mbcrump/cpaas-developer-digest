@@ -5,8 +5,40 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:34:54 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-26</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-26.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-26.html</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-26.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-26</h1>
+<p>Generated: 2026-08-26 09:34 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.2" rel="noopener noreferrer">v3.2.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/lumen-voice-alternative/" rel="noopener noreferrer">Lumen enterprise voice alternative: what the end-of-sale means and how to switch</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Ujvpvvj5k0E" rel="noopener noreferrer">ClueCon 2026 - Keynote - Anthony Minessale - Real-Time Infrastructure Meets AI Intelligence</a><span class="story-meta"><span class="provider-badge" data-provider="signalwire">SignalWire</span><span>SignalWire YouTube</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="signalwire">SignalWire</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=Ujvpvvj5k0E" rel="noopener noreferrer">ClueCon 2026 - Keynote - Anthony Minessale - Real-Time Infrastructure Meets AI Intelligence</a><span class="story-meta"><span class="provider-badge" data-provider="signalwire">SignalWire</span><span>SignalWire YouTube</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/lumen-voice-alternative/" rel="noopener noreferrer">Lumen enterprise voice alternative: what the end-of-sale means and how to switch</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-java/releases/tag/13.0.0" rel="noopener noreferrer">13.0.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Java SDK Releases</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-cli/releases/tag/v3.2.2" rel="noopener noreferrer">v3.2.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage CLI Releases</span><time datetime="2026-08-25">2026-08-25</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-08-25</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-25.html</link>
