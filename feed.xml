@@ -5,8 +5,57 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 16:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:26:11 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-08-27</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-27.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-27.html</guid>
+      <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-08-27.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-08-27</h1>
+<p>Generated: 2026-08-27 17:25 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6ELdXRzMoc4" rel="noopener noreferrer">Stop Writing Dead Code: Kiro + Vonage&#39;s Docs MCP Server</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.0" rel="noopener noreferrer">v2.7.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/how-to-record-audio-from-phone-call-node-js-dr" rel="noopener noreferrer">How to Record Audio from Incoming Calls with Node.js</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/vonage-reviews.html" rel="noopener noreferrer">Vonage Reviews 2026: Pros, Cons &amp; What Users Say</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/main-street-businesses-ai-solutions.html" rel="noopener noreferrer">What Practical AI Looks Like for Main Street Businesses</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/moving-up-ai-maturity-ladder/" rel="noopener noreferrer">Moving up the AI maturity ladder</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-08-26">2026-08-26</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/l2Q3S41HZAM" rel="noopener noreferrer">The future of authentication</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=CsIFbSkEKUg" rel="noopener noreferrer">Build an AI Outbound Call Campaign using Telnyx AgentSDK</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=1x4QWql36ug" rel="noopener noreferrer">Build a Live Call Transcription Agent on Telnyx Edge</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=v0ezzs0Jpm4" rel="noopener noreferrer">The AI Agent Is the Outage Build a Network Incident Agent on Telnyx Edge</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-go/releases/tag/v1.31.0" rel="noopener noreferrer">v1.31.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Go SDK Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.8.1" rel="noopener noreferrer">2.8.1</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/ssl-for-branded-links" rel="noopener noreferrer">Update to Twilio SendGrid Link Branding: Automatic SSL Certificate Provisioning</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=6ELdXRzMoc4" rel="noopener noreferrer">Stop Writing Dead Code: Kiro + Vonage&#39;s Docs MCP Server</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.0" rel="noopener noreferrer">v2.7.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/how-to-record-audio-from-phone-call-node-js-dr" rel="noopener noreferrer">How to Record Audio from Incoming Calls with Node.js</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.4-snapshot.202608271249" rel="noopener noreferrer">v2.6.4-snapshot.202608271249</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.6.4-snapshot.202608271129" rel="noopener noreferrer">v2.6.4-snapshot.202608271129</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-08-27">2026-08-27</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-08-26</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-26.html</link>
