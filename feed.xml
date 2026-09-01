@@ -5,8 +5,43 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:34:30 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-01</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-01.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-01.html</guid>
+      <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-01.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-01</h1>
+<p>Generated: 2026-09-01 11:33 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v3.30.0" rel="noopener noreferrer">v3.30.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/where-to-get-help-when-you-re-building-with-vonage-apis" rel="noopener noreferrer">Where to Get Help When You’re Building with Vonage APIs</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=PaiHYZVrlas" rel="noopener noreferrer">Inside HubSpot&#39;s Partner Growth Accelerator (PGA) | Sinch x HubSpot</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=PaiHYZVrlas" rel="noopener noreferrer">Inside HubSpot&#39;s Partner Growth Accelerator (PGA) | Sinch x HubSpot</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=3qfaFUcJZE0" rel="noopener noreferrer">Webhook Aggregator with Fanout — Live Demo (Flask + Telnyx SDK v4)</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/voice-sdk/v/2.18.4" rel="noopener noreferrer">Twilio Voice JavaScript SDK 2.18.4 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Voice JavaScript SDK Releases</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/twilio-sync/v/4.0.1" rel="noopener noreferrer">Twilio Sync JavaScript SDK 4.0.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Sync JavaScript SDK Releases</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/conversations/v/3.0.1" rel="noopener noreferrer">Twilio Conversations JavaScript SDK 3.0.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Conversations JavaScript SDK Releases</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v3.30.0" rel="noopener noreferrer">v3.30.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/where-to-get-help-when-you-re-building-with-vonage-apis" rel="noopener noreferrer">Where to Get Help When You’re Building with Vonage APIs</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-01">2026-09-01</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-08-31</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-08-31.html</link>
