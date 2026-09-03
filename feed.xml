@@ -5,8 +5,31 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 18:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:42:22 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-03</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-03.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-03.html</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-03.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-03</h1>
+<p>Generated: 2026-09-03 11:41 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/silent-network-authentication-build-a-fraud-proof-login-with-fastapi-kotlin" rel="noopener noreferrer">Silent Network Authentication: Fraud-Proof Login With FastAPI + Kotlin</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-03">2026-09-03</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/Upgrade-Java-Helper-Library-13-0" rel="noopener noreferrer">Critical fix: Java Helper Library 13.0.0: fixes crash on unknown fields in nested API responses</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-02">2026-09-02</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/verify-custom-templates-are-now-generally-available" rel="noopener noreferrer">Verify Custom Templates are now Generally Available</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-02">2026-09-02</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/silent-network-authentication-build-a-fraud-proof-login-with-fastapi-kotlin" rel="noopener noreferrer">Silent Network Authentication: Fraud-Proof Login With FastAPI + Kotlin</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-03">2026-09-03</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-02</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-02.html</link>
