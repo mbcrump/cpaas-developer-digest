@@ -5,8 +5,35 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:22:09 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-05</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-05.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-05.html</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-05.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-05</h1>
+<p>Generated: 2026-09-05 10:21 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=aEgOlAeCJ1k" rel="noopener noreferrer">Build an AI Call Router with Telnyx Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-05">2026-09-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=wC6Y5XqUOvc" rel="noopener noreferrer">Streaming LangChain Agent</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=VTW4kcLMC2k" rel="noopener noreferrer">Build an AI Meeting Facilitator That Joins Live Calls</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=aEgOlAeCJ1k" rel="noopener noreferrer">Build an AI Call Router with Telnyx Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-05">2026-09-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=wC6Y5XqUOvc" rel="noopener noreferrer">Streaming LangChain Agent</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=VTW4kcLMC2k" rel="noopener noreferrer">Build an AI Meeting Facilitator That Joins Live Calls</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=LO0jljZvZEk" rel="noopener noreferrer">Multiplayer Doc with an AI Copilot on Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/international-call-forwarding----compliance-blocking-for-spain--" rel="noopener noreferrer">International Call Forwarding - Compliance Blocking for Spain &amp; France</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-04">2026-09-04</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-04</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-04.html</link>
