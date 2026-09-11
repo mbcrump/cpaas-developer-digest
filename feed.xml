@@ -5,8 +5,31 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 18:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:35:53 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-11</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-11.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-11.html</guid>
+      <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-11.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-11</h1>
+<p>Generated: 2026-09-11 11:35 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-communication-app.html" rel="noopener noreferrer">Top 20 Business Communication Apps for Your Team</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-11">2026-09-11</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/business-communication-app.html" rel="noopener noreferrer">Top 20 Business Communication Apps for Your Team</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-11">2026-09-11</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/twilio-video/v/2.36.0" rel="noopener noreferrer">Twilio Video JavaScript SDK 2.36.0 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Video JavaScript SDK Releases</span><time datetime="2026-09-11">2026-09-11</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/voice-sdk/v/2.18.5" rel="noopener noreferrer">Twilio Voice JavaScript SDK 2.18.5 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Voice JavaScript SDK Releases</span><time datetime="2026-09-10">2026-09-10</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-10</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-10.html</link>
