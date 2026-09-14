@@ -5,8 +5,36 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 18:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:51:36 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-14</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-14.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-14.html</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-14.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-14</h1>
+<p>Generated: 2026-09-14 12:51 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.2" rel="noopener noreferrer">v2.7.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=xFsdby4nm2A" rel="noopener noreferrer">WebRTC Gives You No Dial Tone - Here&#39;s What Does</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.2-snapshot.202609141041" rel="noopener noreferrer">v2.7.2-snapshot.202609141041</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/after-hours-answering-services.html" rel="noopener noreferrer">Best After-Hours Answering Services for Small Businesses in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.2" rel="noopener noreferrer">v2.7.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=xFsdby4nm2A" rel="noopener noreferrer">WebRTC Gives You No Dial Tone - Here&#39;s What Does</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.2-snapshot.202609141041" rel="noopener noreferrer">v2.7.2-snapshot.202609141041</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.2-snapshot.202609140911" rel="noopener noreferrer">v2.7.2-snapshot.202609140911</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-14">2026-09-14</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-android-client-library/releases/tag/v1.3.0" rel="noopener noreferrer">v1.3.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Android Client Library Releases</span><time datetime="2026-09-13">2026-09-13</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-13</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-13.html</link>
