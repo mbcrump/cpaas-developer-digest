@@ -5,8 +5,38 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:31:26 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-18</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-18.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-18.html</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-18.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-18</h1>
+<p>Generated: 2026-09-18 11:30 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.3" rel="noopener noreferrer">v2.7.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/SMw9JIIsJ74" rel="noopener noreferrer">WebRTC Gives You No Dial Tone... Here&#39;s What Does</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/" rel="noopener noreferrer">AI Receptionist with AT&amp;T Office@Hand: What it means for real estate agents</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-receptionist-att-officehand-real-estate-agents/" rel="noopener noreferrer">AI Receptionist with AT&amp;T Office@Hand: What it means for real estate agents</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/voice-recording-storage-billing-updates" rel="noopener noreferrer">Voice Recording Storage billing updates</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-17">2026-09-17</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/twilio-integration-with-salesforce-service-cloud-voice-is-now-om" rel="noopener noreferrer">Twilio integration with Salesforce Service Cloud Voice is now Omnichannel</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-17">2026-09-17</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.3" rel="noopener noreferrer">v2.7.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/SMw9JIIsJ74" rel="noopener noreferrer">WebRTC Gives You No Dial Tone... Here&#39;s What Does</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-09-18">2026-09-18</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-17</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-17.html</link>
