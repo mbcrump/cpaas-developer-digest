@@ -5,8 +5,43 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:57:03 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-22</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-22.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-22.html</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-22.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-22</h1>
+<p>Generated: 2026-09-22 11:56 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/add-tools-and-human-transfer-to-a-vonage-deepgram-voice-agent" rel="noopener noreferrer">Add Tools and Human Transfer to a Vonage + Deepgram Voice Agent</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ivr-software/" rel="noopener noreferrer">9 IVR software tools to compare in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/customer-service-analytics/" rel="noopener noreferrer">Customer service analytics: Metrics, methods, and tools</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/answering-service-for-small-business.html" rel="noopener noreferrer">7 Best Answering Services for Small Businesses in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-21">2026-09-21</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ivr-software/" rel="noopener noreferrer">9 IVR software tools to compare in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/customer-service-analytics/" rel="noopener noreferrer">Customer service analytics: Metrics, methods, and tools</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/conversational-ai-for-customer-service/" rel="noopener noreferrer">Conversational AI for customer service: How it works in practice</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/franchise-phone-system/" rel="noopener noreferrer">Franchise phone systems: A guide for multi-location owners</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/real-time-transcriptions-october-2026" rel="noopener noreferrer">Introducing Provider Failover and “Auto” mode Provider selection for Real-Time Transcriptions on October 22, 2026</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/add-tools-and-human-transfer-to-a-vonage-deepgram-voice-agent" rel="noopener noreferrer">Add Tools and Human Transfer to a Vonage + Deepgram Voice Agent</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-22">2026-09-22</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-21</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-21.html</link>
