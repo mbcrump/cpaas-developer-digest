@@ -5,8 +5,35 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 19:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:37:59 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-26</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-26.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-26.html</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-26.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-26</h1>
+<p>Generated: 2026-09-26 11:37 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=t2bvoG2kpZM" rel="noopener noreferrer">How to Reschedule a Scheduled Email with Telnyx Email API</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-25">2026-09-25</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/phone-calls-from-computer.html" rel="noopener noreferrer">How to Make Phone Calls From Your Computer</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-25">2026-09-25</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/phone-calls-from-computer.html" rel="noopener noreferrer">How to Make Phone Calls From Your Computer</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-25">2026-09-25</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=t2bvoG2kpZM" rel="noopener noreferrer">How to Reschedule a Scheduled Email with Telnyx Email API</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-09-25">2026-09-25</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/twilio-voice-react-native-sdk-adds-expo-support" rel="noopener noreferrer">Twilio Voice React Native SDK adds Expo Support</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-25">2026-09-25</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-25</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-25.html</link>
