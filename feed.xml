@@ -5,8 +5,42 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:00:59 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-29</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-29.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-29.html</guid>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-29.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-29</h1>
+<p>Generated: 2026-09-29 13:00 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/q3-2026-vonage-developer-recap" rel="noopener noreferrer">Q3 2026: Vonage Developer Recap</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HEyX59Qv5tA" rel="noopener noreferrer">The Psychology of Risk: Why Insurance Needs Behavioural Science and Agentic AI - Ep. 6</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/top-customer-support-platforms.html" rel="noopener noreferrer">How to Choose a Customer Support Platform</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HEyX59Qv5tA" rel="noopener noreferrer">The Psychology of Risk: Why Insurance Needs Behavioural Science and Agentic AI - Ep. 6</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/top-customer-support-platforms.html" rel="noopener noreferrer">How to Choose a Customer Support Platform</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/best-ai-agents-for-customer-support.html" rel="noopener noreferrer">10 Best AI Agents for Customer Support in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/voice-of-customer-programs.html" rel="noopener noreferrer">Voice of the Customer (VoC): A Complete Guide for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-28">2026-09-28</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/build-operate-automate-sinch-cli/" rel="noopener noreferrer">Build, operate, and automate Sinch APIs with the Sinch CLI</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/q3-2026-vonage-developer-recap" rel="noopener noreferrer">Q3 2026: Vonage Developer Recap</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-29">2026-09-29</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-28</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-28.html</link>
