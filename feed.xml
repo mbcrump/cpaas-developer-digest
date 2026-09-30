@@ -5,8 +5,41 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:04:02 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-09-30</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-30.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-30.html</guid>
+      <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-09-30.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-09-30</h1>
+<p>Generated: 2026-09-30 13:03 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/getting-a-sms-delivery-receipt-from-a-mobile-carrier-with-node-js-dr" rel="noopener noreferrer">Receive an SMS Delivery Receipt With Node.js and the Messages API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/voice-api-v2-batch-calling-appointment-reminders/" rel="noopener noreferrer">Send appointment reminder calls at scale with Voice API v2 batch calling</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/best-agentic-ai-customer-service-platforms.html" rel="noopener noreferrer">10 Best Agentic AI Customer Service Platforms, Compared</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/best-agentic-ai-customer-service-platforms.html" rel="noopener noreferrer">10 Best Agentic AI Customer Service Platforms, Compared</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/voice-api-v2-batch-calling-appointment-reminders/" rel="noopener noreferrer">Send appointment reminder calls at scale with Voice API v2 batch calling</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=RMvSxlAr1eE" rel="noopener noreferrer">Sinch + SAP Engagement Cloud: RCS Chatbot to Live Agent Handoff (Demo)</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.8.3" rel="noopener noreferrer">2.8.3</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/getting-a-sms-delivery-receipt-from-a-mobile-carrier-with-node-js-dr" rel="noopener noreferrer">Receive an SMS Delivery Receipt With Node.js and the Messages API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-29</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-29.html</link>
