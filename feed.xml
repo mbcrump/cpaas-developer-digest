@@ -5,8 +5,46 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 20:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:22:03 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-01</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-01.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-01.html</guid>
+      <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-01.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-01</h1>
+<p>Generated: 2026-10-01 13:21 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/2-factor-authentication-sms-voice-django-dr" rel="noopener noreferrer">Add Two-Factor Authentication With Django and Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.5-snapshot.202610011214" rel="noopener noreferrer">v2.7.5-snapshot.202610011214</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/agentic-voice-ai-statistics/" rel="noopener noreferrer">New research shows how agentic voice AI is gaining autonomy in business</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-receptionist-human-handoff.html" rel="noopener noreferrer">AI Receptionist Human Handoff: Escalation Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/call-center-for-ecommerce.html" rel="noopener noreferrer">E-Commerce Call Center Software: What Brands Need to Know</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/communications-service-provider.html" rel="noopener noreferrer">Communications Service Provider: Overview &amp; Key Features</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/agentic-ai-inbound-call-routing.html" rel="noopener noreferrer">Agentic AI Inbound Call Routing: A Complete Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/omnichannel-communication-platforms.html" rel="noopener noreferrer">7 Best Omnichannel Communication Platforms for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/agentic-voice-ai-statistics/" rel="noopener noreferrer">New research shows how agentic voice AI is gaining autonomy in business</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/twilio-video-media-sdk-for-node-js-now-in-public-beta" rel="noopener noreferrer">Twilio Video Media SDK for Node.js now in Public Beta</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/whatsapp-esu-v4" rel="noopener noreferrer">WhatsApp Embedded Signup Version 4</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-09-30">2026-09-30</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/2-factor-authentication-sms-voice-django-dr" rel="noopener noreferrer">Add Two-Factor Authentication With Django and Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.7.5-snapshot.202610011214" rel="noopener noreferrer">v2.7.5-snapshot.202610011214</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-09-30</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-09-30.html</link>
