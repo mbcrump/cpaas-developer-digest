@@ -5,8 +5,43 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:58:05 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-02</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-02.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-02.html</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-02.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-02</h1>
+<p>Generated: 2026-10-02 12:57 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HxpdIQOFwvg" rel="noopener noreferrer">AI Voice Agent Warm Transfers with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-10-02">2026-10-02</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-shopper-confidence/" rel="noopener noreferrer">What shoppers actually trust AI agents to handle</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-02">2026-10-02</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/start-a-call-center.html" rel="noopener noreferrer">How to Start a Call Center (Your 8-Step Guide)</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/start-a-call-center.html" rel="noopener noreferrer">How to Start a Call Center (Your 8-Step Guide)</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/ai-shopper-confidence/" rel="noopener noreferrer">What shoppers actually trust AI agents to handle</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-02">2026-10-02</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=HxpdIQOFwvg" rel="noopener noreferrer">AI Voice Agent Warm Transfers with Telnyx</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-10-02">2026-10-02</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/create-send-vcards-with-go" rel="noopener noreferrer">How to Create and Send vCards with Go</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/track-opt-outs-in-php" rel="noopener noreferrer">How to Track Opt-Outs in PHP</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/batchtranscriptionconfigurationGA" rel="noopener noreferrer">Batch Transcription Configuration is now Generally Available!</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/voice-insights-shows-why-carriers-block-your-calls-603-reason" rel="noopener noreferrer">Voice Insights now shows why carriers block your calls</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-01">2026-10-01</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-01</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-01.html</link>
