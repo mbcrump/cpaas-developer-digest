@@ -5,8 +5,48 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:22:02 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-06</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-06.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-06.html</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-06.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-06</h1>
+<p>Generated: 2026-10-06 13:21 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-developer-office-hours-are-back" rel="noopener noreferrer">Vonage Developer Office Hours Are Back!</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-voice-agent-vs-ivr.html" rel="noopener noreferrer">AI Voice Agent vs. IVR: Contact Center Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/how-to-launch-a-customer-service-contact-center.html" rel="noopener noreferrer">How to Start a Contact Center: 12 Steps for a Successful Launch</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-voice-agent-vs-ivr.html" rel="noopener noreferrer">AI Voice Agent vs. IVR: Contact Center Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/how-to-launch-a-customer-service-contact-center.html" rel="noopener noreferrer">How to Start a Contact Center: 12 Steps for a Successful Launch</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/verify-phone-numbers-sinch-verification-api/" rel="noopener noreferrer">Verify phone numbers with the Sinch Verification API</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.9.0" rel="noopener noreferrer">2.9.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/taskrouter-studio-public-beta-ie1" rel="noopener noreferrer">TaskRouter and Studio are now available in Public Beta in Ireland (IE1)</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/short-codes-are-now-supported-in-data-residency-for-sms--eu-" rel="noopener noreferrer">Short Codes are now supported in Data Residency for SMS (EU)</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-05">2026-10-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/segment-conversation-memory-integration-now-in-ga" rel="noopener noreferrer">Segment Conversation Memory Integration now in GA</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-05">2026-10-05</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-developer-office-hours-are-back" rel="noopener noreferrer">Vonage Developer Office Hours Are Back!</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+</ul>
+<h2 id="source-warnings">Source Warnings</h2>
+<ul>
+<li>Sendbird Blog: Response status code does not indicate success: 404 (Not Found).</li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-05</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-05.html</link>
