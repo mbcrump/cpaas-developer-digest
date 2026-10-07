@@ -5,8 +5,40 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:39:07 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-07</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-07.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-07.html</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-07.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-07</h1>
+<p>Generated: 2026-10-07 13:38 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/improve-video-app-reliability-with-the-vonage-video-api" rel="noopener noreferrer">Improve Video App Reliability With the Vonage Video API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-07">2026-10-07</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/multichannel-contact-center.html" rel="noopener noreferrer">Multichannel Contact Center: What It Is and How It Works</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-07">2026-10-07</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/multichannel-contact-center.html" rel="noopener noreferrer">Multichannel Contact Center: What It Is and How It Works</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-07">2026-10-07</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-php" rel="noopener noreferrer">Avoid Sending SMS to Landlines in PHP with Twilio&#39;s Lookup v2 API</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/avoid-sending-sms-to-landlines-lookup-v2-api-go" rel="noopener noreferrer">Avoid Sending SMS to Landlines with the Lookup v2 API and Go</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-10-06">2026-10-06</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/improve-video-app-reliability-with-the-vonage-video-api" rel="noopener noreferrer">Improve Video App Reliability With the Vonage Video API</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-07">2026-10-07</time></span></li>
+</ul>
+<h2 id="source-warnings">Source Warnings</h2>
+<ul>
+<li>Sendbird Blog: Response status code does not indicate success: 404 (Not Found).</li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-06</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-06.html</link>
