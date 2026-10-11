@@ -5,8 +5,18 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 19:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:34:50 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-11</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-11.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-11.html</guid>
+      <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-11.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-11</h1>
+<p>Generated: 2026-10-11 12:34 -07:00</p>
+<p>No new content found for this day.</p>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-10</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-10.html</link>
