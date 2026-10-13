@@ -5,8 +5,47 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 22:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 20:42:18 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-13</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-13.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-13.html</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-13.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-13</h1>
+<p>Generated: 2026-10-13 13:41 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/validate-phone-numbers-with-firebase-and-vonage-identity-insights" rel="noopener noreferrer">Validate Phone Numbers With Firebase and Vonage Identity Insights</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=mPES9d7yKIE" rel="noopener noreferrer">How to Build an AI Patient Intake Assistant That Remembers Callers</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/contact-center-software.html" rel="noopener noreferrer">Contact Center Software: Top Solutions Compared for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=_C0-te1OZHg" rel="noopener noreferrer">Google&#39;s Andy Gladwin on Infobip: &quot;A Partner That Delivers Results&quot; | 20 Partners</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/contact-center-software.html" rel="noopener noreferrer">Contact Center Software: Top Solutions Compared for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/intelligent-virtual-agent.html" rel="noopener noreferrer">What Is an Intelligent Virtual Agent?</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-12">2026-10-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/cloudtalk-alternatives-competitors.html" rel="noopener noreferrer">10 CloudTalk Alternatives &amp; Competitors to Consider in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-12">2026-10-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/what-is-a-virtual-phone-system.html" rel="noopener noreferrer">What Is a Virtual Phone System? (2026 Guide)</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-12">2026-10-12</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=mPES9d7yKIE" rel="noopener noreferrer">How to Build an AI Patient Intake Assistant That Remembers Callers</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/validate-phone-numbers-with-firebase-and-vonage-identity-insights" rel="noopener noreferrer">Validate Phone Numbers With Firebase and Vonage Identity Insights</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-13">2026-10-13</time></span></li>
+</ul>
+<h2 id="source-warnings">Source Warnings</h2>
+<ul>
+<li>Sendbird Blog: Response status code does not indicate success: 404 (Not Found).</li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-12</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-12.html</link>
