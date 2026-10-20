@@ -5,8 +5,49 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:18:53 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-20</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-20.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-20.html</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-20.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-20</h1>
+<p>Generated: 2026-10-20 12:18 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/silent-authentication-better-privacy-for-users" rel="noopener noreferrer">Silent Authentication: Better Privacy for Users</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/auto-attendant-vs-virtual-receptionist/" rel="noopener noreferrer">Auto attendant vs. virtual receptionist: What’s the difference?</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/best-agentic-customer-service-platforms.html" rel="noopener noreferrer">Best Agentic Customer Service Platforms: 2026 Buyer’s Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=xemsgOKF_-g" rel="noopener noreferrer">Yamaha Indonesia: Turning digital curiosity into high-intent leads</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=dIWpvM_JTf0" rel="noopener noreferrer">From Channels to Connected Conversations: The Future of Customer Engagement | Goran Jursic Interview</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/best-agentic-customer-service-platforms.html" rel="noopener noreferrer">Best Agentic Customer Service Platforms: 2026 Buyer’s Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-answering-service-adoption-barriers.html" rel="noopener noreferrer">AI Answering Service Adoption Barriers: How to Fix Them</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-answering-service-high-call-volume.html" rel="noopener noreferrer">Scale High-Volume Calls With an AI Answering Service</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-19">2026-10-19</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/interactive-voice-response-ivr.html" rel="noopener noreferrer">Interactive Voice Response Guide: Definition and Setup</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-19">2026-10-19</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/call-queuing.html" rel="noopener noreferrer">Call Queuing Guide: What It Is and How Businesses Use It</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-19">2026-10-19</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/auto-attendant-vs-virtual-receptionist/" rel="noopener noreferrer">Auto attendant vs. virtual receptionist: What’s the difference?</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/rcs-healthcare-engagement/" rel="noopener noreferrer">RCS for healthcare improves patient engagement and protects productivity</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/silent-authentication-better-privacy-for-users" rel="noopener noreferrer">Silent Authentication: Better Privacy for Users</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-19</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-19.html</link>
