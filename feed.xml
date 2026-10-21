@@ -5,8 +5,49 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:19:11 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-21</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-21.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-21.html</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-21.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-21</h1>
+<p>Generated: 2026-10-21 12:18 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.9.1" rel="noopener noreferrer">v4.9.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/build-offline-agent-loops-for-a-vonage-voice-agent" rel="noopener noreferrer">Build Offline Agent Loops for a Vonage Voice Agent</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-receptionist-for-healthcare/" rel="noopener noreferrer">AI receptionist for healthcare: What it is and how it works</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=qnUTXqFvCIg" rel="noopener noreferrer">Microsoft x Infobip: How partnerships can bring AI-powered customer engagement to life</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=A9KEgKaW7XU" rel="noopener noreferrer">Experience Intelligence: Digitas MENA CEO on People, AI &amp; the Future with Infobip | 20 Partners</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=k6-br_0IY4g" rel="noopener noreferrer">UI Play &amp; Infobip: Reimagining customer engagement through WhatsApp and AI</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-answering-service-vendor-evaluation.html" rel="noopener noreferrer">AI Answering Service Vendor Evaluation: Test Beyond Demos</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-customer-service-trends.html" rel="noopener noreferrer">AI in Customer Service: What Is Actually Working in Production</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/ai-answering-service-vs-call-center-outsourcing.html" rel="noopener noreferrer">AI Answering Service vs. Call Center Outsourcing</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-receptionist-for-healthcare/" rel="noopener noreferrer">AI receptionist for healthcare: What it is and how it works</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/the-voice-recording-account-default-configuration-is-now-generally-available-in-us1" rel="noopener noreferrer">The Voice Recording Account Default Configuration is now Generally Available in us1</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-10-20">2026-10-20</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.9.1" rel="noopener noreferrer">v4.9.1</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/build-offline-agent-loops-for-a-vonage-voice-agent" rel="noopener noreferrer">Build Offline Agent Loops for a Vonage Voice Agent</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-21">2026-10-21</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-20</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-20.html</link>
