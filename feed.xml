@@ -5,8 +5,26 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:06:49 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-27</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-27.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-27.html</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-27.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-27</h1>
+<p>Generated: 2026-10-27 13:06 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/text-to-speech-voice-calls-with-php-dr" rel="noopener noreferrer">Text-to-Speech Voice Calls with PHP</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-27">2026-10-27</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/text-to-speech-voice-calls-with-php-dr" rel="noopener noreferrer">Text-to-Speech Voice Calls with PHP</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-27">2026-10-27</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-26</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-26.html</link>
