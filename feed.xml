@@ -5,8 +5,38 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 20:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:18:06 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-28</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-28.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-28.html</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-28.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-28</h1>
+<p>Generated: 2026-10-28 13:17 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/send-rcs-messages-with-google-gemini-and-vonage-mcp-server" rel="noopener noreferrer">Send RCS Messages With Google Gemini and Vonage MCP Server</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-php-sdk/releases/tag/4.4.0" rel="noopener noreferrer">4.4.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage PHP SDK Releases</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-php-sdk/releases/tag/v4.4.0" rel="noopener noreferrer">v4.4.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage PHP SDK Releases</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/agentic-ai-vs-conversational-ai-customer-service.html" rel="noopener noreferrer">Conversational vs. Agentic AI in Customer Support</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=08p2fDrxKK0" rel="noopener noreferrer">Production-ready AI in customer comms: What it takes, from two sides of the market [webinar]</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch YouTube</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/send-rcs-messages-with-google-gemini-and-vonage-mcp-server" rel="noopener noreferrer">Send RCS Messages With Google Gemini and Vonage MCP Server</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-php-sdk/releases/tag/4.4.0" rel="noopener noreferrer">4.4.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage PHP SDK Releases</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-php-sdk/releases/tag/v4.4.0" rel="noopener noreferrer">v4.4.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage PHP SDK Releases</span><time datetime="2026-10-28">2026-10-28</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-27</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-27.html</link>
