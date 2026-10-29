@@ -5,8 +5,41 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:20:30 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-10-29</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-29.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-29.html</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-10-29.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-10-29</h1>
+<p>Generated: 2026-10-29 13:20 -07:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/set-up-a-vonage-rails-initializer-with-vonage-rails" rel="noopener noreferrer">Set Up a Vonage Rails Initializer With vonage-rails</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=InrPV6Bla1U" rel="noopener noreferrer">You&#39;ve invested in AI — but is your CX mature enough to scale with it?</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/a-recent-grads-guide-to-corporate-my-journey-from-intern-to-sde-1-at-ringcentral/" rel="noopener noreferrer">A Recent Grad’s Guide to Corporate: My Journey from Intern to SDE 1 at RingCentral</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=InrPV6Bla1U" rel="noopener noreferrer">You&#39;ve invested in AI — but is your CX mature enough to scale with it?</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/a-recent-grads-guide-to-corporate-my-journey-from-intern-to-sde-1-at-ringcentral/" rel="noopener noreferrer">A Recent Grad’s Guide to Corporate: My Journey from Intern to SDE 1 at RingCentral</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/migrate-from-sms-xms-api-to-conversation-api/" rel="noopener noreferrer">Migrate from the Sinch SMS API to the Conversation API</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/send-sms-conversation-api-curl-nodejs-python/" rel="noopener noreferrer">Send SMS with the Sinch Conversation API in curl, Node.js, and Python</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/set-up-a-vonage-rails-initializer-with-vonage-rails" rel="noopener noreferrer">Set Up a Vonage Rails Initializer With vonage-rails</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-10-29">2026-10-29</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-28</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-28.html</link>
