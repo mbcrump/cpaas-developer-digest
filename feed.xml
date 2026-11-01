@@ -5,8 +5,26 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:31:36 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-01</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-01.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-01.html</guid>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-01.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-01</h1>
+<p>Generated: 2026-11-01 12:31 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/outbound-call-center-software.html" rel="noopener noreferrer">The Buyer’s Guide to Outbound Call Center Software</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-31">2026-10-31</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/outbound-call-center-software.html" rel="noopener noreferrer">The Buyer’s Guide to Outbound Call Center Software</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-10-31">2026-10-31</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-10-31</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-10-31.html</link>
