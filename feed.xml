@@ -5,8 +5,48 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:01:44 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-05</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-05.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-05.html</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-05.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-05</h1>
+<p>Generated: 2026-11-05 14:01 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/step-up-authentication-vs-login-2fa-when-to-use-each" rel="noopener noreferrer">Step-Up Authentication vs. Login 2FA: When to Use Each</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.2" rel="noopener noreferrer">v2.11.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.2-snapshot.202611051140" rel="noopener noreferrer">v2.11.2-snapshot.202611051140</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/call-center-recording-software.html" rel="noopener noreferrer">Call Center Recording Software: 10 Best Tools for 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=v_LLYKk0oO4" rel="noopener noreferrer">Level Up Recap: Multilingual Voice AI Architecture</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio YouTube</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-sdk/v/4.3.0" rel="noopener noreferrer">Twilio Flex SDK 4.3.0 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-go/releases/tag/v1.33.0" rel="noopener noreferrer">v1.33.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Go SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-csharp/releases/tag/8.2.0" rel="noopener noreferrer">8.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio C# .NET SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-java/releases/tag/13.2.0" rel="noopener noreferrer">13.2.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Java SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-python/releases/tag/9.13.0" rel="noopener noreferrer">9.13.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Python SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-php/releases/tag/8.14.0" rel="noopener noreferrer">8.14.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio PHP SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/twilio/twilio-oai/releases/tag/2.11.0" rel="noopener noreferrer">2.11.0</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio OpenAPI Specification Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/voice-api-call-resource-returns-stir-shaken-status" rel="noopener noreferrer">Voice API Call resource now returns STIR/SHAKEN status</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/email-insights-is-now-generally-available" rel="noopener noreferrer">Email Insights is now Generally Available</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/verify-events-to-ga" rel="noopener noreferrer">Verify Events is now GA</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-11-04">2026-11-04</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/step-up-authentication-vs-login-2fa-when-to-use-each" rel="noopener noreferrer">Step-Up Authentication vs. Login 2FA: When to Use Each</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.2" rel="noopener noreferrer">v2.11.2</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.2-snapshot.202611051140" rel="noopener noreferrer">v2.11.2-snapshot.202611051140</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-05">2026-11-05</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-04</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-04.html</link>
