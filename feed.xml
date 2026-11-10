@@ -5,8 +5,46 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:16:27 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-09</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-09.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-09.html</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-09.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-09</h1>
+<p>Generated: 2026-11-09 16:15 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/vundefined" rel="noopener noreferrer">vundefined</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v" rel="noopener noreferrer">v</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/digital-engagement-platform.html" rel="noopener noreferrer">Digital Engagement Platforms: Top Features + 2026 Picks</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/digital-engagement-platform.html" rel="noopener noreferrer">Digital Engagement Platforms: Top Features + 2026 Picks</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/flex-ui/v/2.18.1" rel="noopener noreferrer">Twilio Flex UI 2.18.1 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Flex UI Releases</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/vundefined" rel="noopener noreferrer">vundefined</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-node-sdk/releases/tag/v" rel="noopener noreferrer">v</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Node SDK Releases</span><time datetime="2026-11-09">2026-11-09</time></span></li>
+</ul>
+<h2 id="source-warnings">Source Warnings</h2>
+<ul>
+<li>Vonage Dev YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+<li>Twilio YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+<li>Telnyx YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+<li>SignalWire YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+<li>Infobip YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+<li>Sinch YouTube: Response status code does not indicate success: 404 (Not Found).</li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-08</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-08.html</link>
