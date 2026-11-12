@@ -5,8 +5,47 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:15:37 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-12</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-12.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-12.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-12.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-12</h1>
+<p>Generated: 2026-11-12 14:15 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/six-global-startups-building-ai-solutions-with-vonage" rel="noopener noreferrer">Six Global Startups Building AI Solutions With Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.10.0" rel="noopener noreferrer">v4.10.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-ruby-sdk/releases/tag/v7.37.0" rel="noopener noreferrer">v7.37.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Ruby SDK Releases</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/how-to-set-up-ai-agents-alerts-holiday-rush/" rel="noopener noreferrer">How to set up AI agents and alerts for the holiday rush</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/migrating-from-lumen/" rel="noopener noreferrer">Migrating from Lumen is your chance to modernize voice infrastructure</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=ooGiVfmJ_1s" rel="noopener noreferrer">Build an AI Follow-Up Call Scheduler with TypeScript | Telnyx Edge Compute</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.npmjs.com/package/@twilio/voice-sdk/v/2.19.0" rel="noopener noreferrer">Twilio Voice JavaScript SDK 2.19.0 released</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Voice JavaScript SDK Releases</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/email-logs-new-filters-and-text-search" rel="noopener noreferrer">New filters and text search in Email Logs</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/six-global-startups-building-ai-solutions-with-vonage" rel="noopener noreferrer">Six Global Startups Building AI Solutions With Vonage</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-python-sdk/releases/tag/v4.10.0" rel="noopener noreferrer">v4.10.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Python SDK Releases</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-ruby-sdk/releases/tag/v7.37.0" rel="noopener noreferrer">v7.37.0</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Ruby SDK Releases</span><time datetime="2026-11-12">2026-11-12</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-11</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-11.html</link>
