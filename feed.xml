@@ -5,8 +5,30 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:15:44 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-16</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-16.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-16.html</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-16.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-16</h1>
+<p>Generated: 2026-11-16 16:15 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-video-api-2-36-retry-logic-observability-and-ios-27-support" rel="noopener noreferrer">Vonage Video API 2.36: Retry Logic, Observability, and iOS 27 Support</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-16">2026-11-16</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/changelog/twilio-voice-is-rolling-out-hd-audio" rel="noopener noreferrer">Twilio Voice now supports HD audio</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Product Changelog</span><time datetime="2026-11-16">2026-11-16</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/vonage-video-api-2-36-retry-logic-observability-and-ios-27-support" rel="noopener noreferrer">Vonage Video API 2.36: Retry Logic, Observability, and iOS 27 Support</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-16">2026-11-16</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-15</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-15.html</link>
