@@ -5,8 +5,56 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 23:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:41:26 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-20</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-20.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-20.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-20.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-20</h1>
+<p>Generated: 2026-11-20 14:40 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/automated-insurance-claims-javascript-clef-video-api" rel="noopener noreferrer">Automated Insurance Claims in JavaScript With AI Damage Detection</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/lkhjKIbS4vA" rel="noopener noreferrer">Phone Verification for Student Projects with Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.3" rel="noopener noreferrer">v2.11.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="infobip">Infobip</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=g4FCs6h6FBo" rel="noopener noreferrer">Barry University x Infobip: Redefining AI in higher education</a><span class="story-meta"><span class="provider-badge" data-provider="infobip">Infobip</span><span>Infobip YouTube</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+</ul>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/what-is-nextiq.html" rel="noopener noreferrer">What Is NextIQ? How It Differs From Generic AI Platforms</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/what-is-voip.html" rel="noopener noreferrer">What Is VoIP? How Voice over Internet Protocol Works</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/enterprise-contact-center-solutions.html" rel="noopener noreferrer">Enterprise Contact Center Software: Top Features For Large Companies</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/customer-service-phrases.html" rel="noopener noreferrer">Customer Service Phrases: 9 to Avoid, 12 to Use in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-19">2026-11-19</time></span></li>
+</ul>
+<h3 id="ringcentral">RingCentral</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/customer-engagement-tools/" rel="noopener noreferrer">Customer engagement tools worth evaluating in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.ringcentral.com/us/en/blog/ai-contact-center-solutions/" rel="noopener noreferrer">10 AI contact center solutions worth evaluating in 2026</a><span class="story-meta"><span class="provider-badge" data-provider="ringcentral">RingCentral</span><span>RingCentral Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/JMD-0o0S6eA" rel="noopener noreferrer">AI Candidate Screening on Autopilot</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/tllN1Bxo4DU" rel="noopener noreferrer">Your AI Meeting Bot Just Joined</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+</ul>
+<h3 id="twilio">Twilio</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.twilio.com/en-us/blog/developers/tutorials/product/how-to-import-data-from-your-crm-external-source-into-conversation-memory" rel="noopener noreferrer">How To Import Data From Your CRM Or Another External Source Into Conversation Memory</a><span class="story-meta"><span class="provider-badge" data-provider="twilio">Twilio</span><span>Twilio Blog</span><time datetime="2026-11-19">2026-11-19</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/automated-insurance-claims-javascript-clef-video-api" rel="noopener noreferrer">Automated Insurance Claims in JavaScript With AI Damage Detection</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/shorts/lkhjKIbS4vA" rel="noopener noreferrer">Phone Verification for Student Projects with Vonage Verify</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Dev YouTube</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.3" rel="noopener noreferrer">v2.11.3</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+<li class="story-item"><a class="story-link" href="https://github.com/Vonage/vonage-client-sdk-ios/releases/tag/v2.11.2-snapshot.202611201104" rel="noopener noreferrer">v2.11.2-snapshot.202611201104</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage iOS Client SDK Releases</span><time datetime="2026-11-20">2026-11-20</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-19</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-19.html</link>
