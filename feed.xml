@@ -5,8 +5,40 @@
     <link>https://cpaasdevdigest.com/</link>
     <description>Daily developer-centric CPaaS updates from provider blogs, YouTube channels, and SDK release feeds.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:37:07 GMT</lastBuildDate>
     <atom:link href="https://cpaasdevdigest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CPaaS Developer Digest - 2026-11-26</title>
+      <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-26.html</link>
+      <guid isPermaLink="true">https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-26.html</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Developer-centric CPaaS updates for 2026-11-26.</description>
+      <content:encoded><![CDATA[<h1>CPaaS Developer Digest - 2026-11-26</h1>
+<p>Generated: 2026-11-26 16:36 -08:00</p>
+<h2 id="highlights">Highlights</h2>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receive-an-inbound-voice-call-with-php-dr" rel="noopener noreferrer">Receive an Inbound Call With PHP &amp; Symfony</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=q4BN5RksSY0" rel="noopener noreferrer">Send 1,000 Emails in One API Call — Telnyx Email API Demo</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/build-facebook-messenger-ai-chatbot-with-openai-sinch-functions/" rel="noopener noreferrer">Build a Facebook Messenger AI chatbot with OpenAI and Sinch Functions</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+</ul>
+<h2 id="by-provider">By Provider</h2>
+<h3 id="nextiva">Nextiva</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.nextiva.com/blog/outbound-calling-software.html" rel="noopener noreferrer">Top 8 Outbound Calling Software: The CRO’s Buying Guide</a><span class="story-meta"><span class="provider-badge" data-provider="nextiva">Nextiva</span><span>Nextiva Blog</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+</ul>
+<h3 id="sinch">Sinch</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://sinch.com/blog/build-facebook-messenger-ai-chatbot-with-openai-sinch-functions/" rel="noopener noreferrer">Build a Facebook Messenger AI chatbot with OpenAI and Sinch Functions</a><span class="story-meta"><span class="provider-badge" data-provider="sinch">Sinch</span><span>Sinch Blog</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+</ul>
+<h3 id="telnyx">Telnyx</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://www.youtube.com/watch?v=q4BN5RksSY0" rel="noopener noreferrer">Send 1,000 Emails in One API Call — Telnyx Email API Demo</a><span class="story-meta"><span class="provider-badge" data-provider="telnyx">Telnyx</span><span>Telnyx YouTube</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+</ul>
+<h3 id="vonage">Vonage</h3>
+<ul>
+<li class="story-item"><a class="story-link" href="https://developer.vonage.com/en/blog/receive-an-inbound-voice-call-with-php-dr" rel="noopener noreferrer">Receive an Inbound Call With PHP &amp; Symfony</a><span class="story-meta"><span class="provider-badge" data-provider="vonage">Vonage</span><span>Vonage Developer Blog</span><time datetime="2026-11-26">2026-11-26</time></span></li>
+</ul>]]></content:encoded>
+    </item>
     <item>
       <title>CPaaS Developer Digest - 2026-11-25</title>
       <link>https://cpaasdevdigest.com/cpaas-developer-digest-2026-11-25.html</link>
